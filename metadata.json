@@ -1,0 +1,6 @@
+{
+  "name": "Maya AI Coding Studio",
+  "description": "Next-generation autonomous AI development platform with Monaco editor, live preview sandbox, 8-agent AI team, Cloud SQL & Firestore persistence, and multi-provider model orchestration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
